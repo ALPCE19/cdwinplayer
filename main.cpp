@@ -22,8 +22,6 @@ void printHelp() {
   std::cout << "  open    - Open cd/dvd drive\n";
   std::cout << "  close    - Close cd/dvd drive\n";
   std::cout << "  play    - play AudioCD\n";
-  std::cout << "  stop    - stop AudioCD\n";
-  std::cout << "  pause    - pause AudioCD\n";
   std::cout << "  status    - status cd\n";
 
 }
